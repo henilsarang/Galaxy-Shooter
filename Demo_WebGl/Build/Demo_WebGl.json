@@ -1,0 +1,13 @@
+{
+"companyName": "Mysterious Adventure q",
+"productName": "Galaxy Shooter",
+"dataUrl": "Demo_WebGl.data.unityweb",
+"asmCodeUrl": "Demo_WebGl.asm.code.unityweb",
+"asmMemoryUrl": "Demo_WebGl.asm.memory.unityweb",
+"asmFrameworkUrl": "Demo_WebGl.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
